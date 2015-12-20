@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EveryLifeLogger</string>
+    <string-array name="event_sorts">
+    <item>식사</item>
+    <item>옷</item>
+    <item>책</item>
+    <item>취미</item>
+    </string-array>
+</resources>
